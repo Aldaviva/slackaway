@@ -1,5 +1,5 @@
 {
-    "name": "SlackAway",
+    "name": "slackaway",
     "version": "0.0.0",
     "author": "Ben Hutchison <ben@aldaviva.com>",
     "description": "Set your Slack presence to away if and only if you're using your computer.",
