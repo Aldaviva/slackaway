@@ -14,6 +14,7 @@ An alternative might be to use the [Slack desktop app](https://slack.com/downloa
 
 ## Requirements
 
+- Windows or Mac OS
 - [Node.js and NPM](https://nodejs.org/en/)
 
 ## Installation
