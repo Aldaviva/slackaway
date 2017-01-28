@@ -1,0 +1,33 @@
+{
+    "name": "SlackAway",
+    "version": "0.0.0",
+    "author": "Ben Hutchison <ben@aldaviva.com>",
+    "description": "Set your Slack presence to away if and only if you're using your computer.",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Aldaviva/slackaway"
+    },
+    "dependencies": {
+        "any-promise"         : "1.3.0",
+        "lock-your-windows"   : "0.0.0",
+        "lodash"              : "3.10.1",
+        "q"                   : "1.4.1",
+        "request"             : "2.79.0",
+        "request-promise-any" : "1.0.3",
+        "xmldom"              : "0.1.27",
+        "xpath"               : "0.0.23"
+    },
+    "optionalDependencies": {
+        "winapi": "2.2.0"
+    },
+    "keywords": [
+        "slack",
+        "away",
+        "chat",
+        "presence",
+        "idle",
+        "inactive",
+        "inactivity"
+    ]
+}

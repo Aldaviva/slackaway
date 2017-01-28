@@ -1,0 +1,9 @@
+{
+    "awayStatus": {
+        "idleTimeBeforeAway": 1800000,
+        "idleTimePollInterval": 60000
+    },
+    "slack": {
+        "authToken": "replace this string with your token from https://api.slack.com/docs/oauth-test-tokens"
+    }
+}
